@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" fill="none">
+    <rect width="480" height="220" rx="20" fill="#050B14"/>
+    <rect width="480" height="220" rx="20" fill="url(#bgGrad-productscablesbossvg)"/>
+    <defs>
+      <radialGradient id="bgGrad-productscablesbossvg" cx="50%" cy="50%" r="50%">
+        <stop stop-color="#FFB800" stop-opacity="0.12"/>
+        <stop offset="100%" stop-color="#050B14" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    
+      <!-- Cables & Distribution Box Graphic -->
+      <g transform="translate(120, 35)">
+        <rect x="20" y="15" width="120" height="120" rx="10" fill="#0A1422" stroke="#FFB800" stroke-width="2.5"/>
+        <rect x="40" y="35" width="80" height="35" rx="4" fill="#020617"/>
+        <line x1="50" y1="52" x2="110" y2="52" stroke="#00E5A0" stroke-width="4"/>
+        <!-- Cables coiling -->
+        <path d="M150 50 Q 200 40 220 70 T 200 120" fill="none" stroke="#FF7A1A" stroke-width="5" stroke-linecap="round"/>
+        <path d="M150 70 Q 220 60 230 90 T 190 135" fill="none" stroke="#38BDF8" stroke-width="5" stroke-linecap="round"/>
+      </g>
+    
+  </svg>

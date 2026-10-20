@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" fill="none">
+    <rect width="480" height="220" rx="20" fill="#050B14"/>
+    <rect width="480" height="220" rx="20" fill="url(#bgGrad-productssolarpanelssvg)"/>
+    <defs>
+      <radialGradient id="bgGrad-productssolarpanelssvg" cx="50%" cy="50%" r="50%">
+        <stop stop-color="#FFB800" stop-opacity="0.12"/>
+        <stop offset="100%" stop-color="#050B14" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    
+      <!-- Solar Panel Array Graphic -->
+      <g transform="translate(120, 40)">
+        <rect x="0" y="0" width="240" height="140" rx="8" fill="#0A1428" stroke="#38BDF8" stroke-width="3"/>
+        <!-- Cells -->
+        <g stroke="#1E293B" stroke-width="2">
+          <line x1="40" y1="0" x2="40" y2="140"/>
+          <line x1="80" y1="0" x2="80" y2="140"/>
+          <line x1="120" y1="0" x2="120" y2="140"/>
+          <line x1="160" y1="0" x2="160" y2="140"/>
+          <line x1="200" y1="0" x2="200" y2="140"/>
+          <line x1="0" y1="46" x2="240" y2="46"/>
+          <line x1="0" y1="92" x2="240" y2="92"/>
+        </g>
+        <!-- Shimmer highlights -->
+        <path d="M20 10 L120 130" stroke="#FFB800" stroke-width="2" opacity="0.6" stroke-linecap="round"/>
+        <path d="M40 10 L140 130" stroke="#00E5A0" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+      </g>
+    
+  </svg>

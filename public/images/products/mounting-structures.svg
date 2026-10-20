@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" fill="none">
+    <rect width="480" height="220" rx="20" fill="#050B14"/>
+    <rect width="480" height="220" rx="20" fill="url(#bgGrad-productsmountingstructuressvg)"/>
+    <defs>
+      <radialGradient id="bgGrad-productsmountingstructuressvg" cx="50%" cy="50%" r="50%">
+        <stop stop-color="#38BDF8" stop-opacity="0.12"/>
+        <stop offset="100%" stop-color="#050B14" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    
+      <!-- Mounting Structure Truss Graphic -->
+      <g transform="translate(120, 40)" stroke="#38BDF8" stroke-width="3" stroke-linecap="round">
+        <line x1="20" y1="130" x2="220" y2="130"/>
+        <line x1="50" y1="130" x2="70" y2="40"/>
+        <line x1="190" y1="130" x2="170" y2="40"/>
+        <line x1="50" y1="50" x2="210" y2="20" stroke="#FFB800" stroke-width="4"/>
+        <line x1="70" y1="40" x2="190" y2="130" stroke="#475569" stroke-width="2"/>
+        <line x1="170" y1="40" x2="50" y2="130" stroke="#475569" stroke-width="2"/>
+        <circle cx="50" cy="50" r="5" fill="#FFB800"/>
+        <circle cx="210" cy="20" r="5" fill="#FFB800"/>
+      </g>
+    
+  </svg>

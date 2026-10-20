@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" fill="none">
+    <rect width="480" height="220" rx="20" fill="#050B14"/>
+    <rect width="480" height="220" rx="20" fill="url(#bgGrad-productswindproductssvg)"/>
+    <defs>
+      <radialGradient id="bgGrad-productswindproductssvg" cx="50%" cy="50%" r="50%">
+        <stop stop-color="#38BDF8" stop-opacity="0.12"/>
+        <stop offset="100%" stop-color="#050B14" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    
+      <!-- Wind Turbine Silhouette Graphic -->
+      <g transform="translate(200, 30)">
+        <line x1="40" y1="140" x2="40" y2="50" stroke="#94A3B8" stroke-width="5" stroke-linecap="round"/>
+        <circle cx="40" cy="50" r="12" fill="#38BDF8"/>
+        <!-- Rotor blades -->
+        <path d="M40 50 L40 5" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+        <path d="M40 50 L80 75" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+        <path d="M40 50 L0 75" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+        <circle cx="40" cy="50" r="4" fill="#FFB800"/>
+      </g>
+    
+  </svg>

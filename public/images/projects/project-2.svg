@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 240" fill="none">
+    <rect width="440" height="240" rx="16" fill="#0A1422"/>
+    <circle cx="220" cy="120" r="120" fill="#FFB800" fill-opacity="0.12" filter="blur(40px)"/>
+    <rect x="40" y="40" width="360" height="160" rx="12" fill="#050B14" stroke="rgba(255,255,255,0.08)"/>
+    <!-- Solar Array Silhouette -->
+    <path d="M60 140 L160 100 L240 105 L140 150 Z" fill="#0F172A" stroke="#FFB800" stroke-width="1.5"/>
+    <path d="M160 150 L260 110 L340 115 L240 160 Z" fill="#0F172A" stroke="#00E5A0" stroke-width="1.5"/>
+    <text x="60" y="75" fill="#FFFFFF" font-family="'Space Grotesk'" font-weight="700" font-size="16">500 kW Commercial IT Park</text>
+    <text x="60" y="95" fill="#94A3B8" font-family="'Inter'" font-size="12">Location: Bengaluru, Karnataka</text>
+    <text x="330" y="75" fill="#FFB800" font-family="'JetBrains Mono'" font-weight="bold" font-size="14">500 kW</text>
+  </svg>

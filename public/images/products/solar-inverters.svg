@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" fill="none">
+    <rect width="480" height="220" rx="20" fill="#050B14"/>
+    <rect width="480" height="220" rx="20" fill="url(#bgGrad-productssolarinverterssvg)"/>
+    <defs>
+      <radialGradient id="bgGrad-productssolarinverterssvg" cx="50%" cy="50%" r="50%">
+        <stop stop-color="#00E5A0" stop-opacity="0.12"/>
+        <stop offset="100%" stop-color="#050B14" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    
+      <!-- Inverter Enclosure Graphic -->
+      <g transform="translate(140, 30)">
+        <rect x="0" y="0" width="200" height="150" rx="14" fill="#0F172A" stroke="#00E5A0" stroke-width="2.5"/>
+        <rect x="25" y="25" width="150" height="40" rx="6" fill="#020617" stroke="#334155"/>
+        <!-- Digital Display -->
+        <text x="40" y="50" fill="#00E5A0" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="bold">50.0 kW</text>
+        <circle cx="150" cy="45" r="4" fill="#00E5A0"/>
+        <!-- Cooling Fins & Connectors -->
+        <line x1="40" y1="90" x2="160" y2="90" stroke="#475569" stroke-width="3"/>
+        <line x1="40" y1="105" x2="160" y2="105" stroke="#475569" stroke-width="3"/>
+        <line x1="40" y1="120" x2="160" y2="120" stroke="#475569" stroke-width="3"/>
+        <circle cx="70" cy="140" r="6" fill="#FFB800"/>
+        <circle cx="100" cy="140" r="6" fill="#38BDF8"/>
+        <circle cx="130" cy="140" r="6" fill="#00E5A0"/>
+      </g>
+    
+  </svg>

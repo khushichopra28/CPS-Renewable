@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#050B14"/>
+  <circle cx="950" cy="200" r="280" fill="#FFB800" fill-opacity="0.15" filter="blur(80px)"/>
+  <circle cx="200" cy="500" r="240" fill="#00E5A0" fill-opacity="0.1" filter="blur(80px)"/>
+  
+  <!-- Logo & Title -->
+  <g transform="translate(100, 120)">
+    <rect width="70" height="70" rx="18" fill="#0A1422" stroke="#FFB800" stroke-width="2"/>
+    <circle cx="35" cy="35" r="16" fill="#FFB800"/>
+    <path d="M35 15C46 15 55 24 55 35" stroke="#00E5A0" stroke-width="4" stroke-linecap="round"/>
+    
+    <text x="90" y="46" fill="#FFFFFF" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="28">CPS RENEWABLES LLP</text>
+    <text x="90" y="66" fill="#FFB800" font-family="'JetBrains Mono', monospace" font-size="13" letter-spacing="2">SUSTAINABLE ENERGY</text>
+  </g>
+
+  <text x="100" y="290" fill="#FFFFFF" font-family="'Space Grotesk', sans-serif" font-weight="800" font-size="56">Powering India's</text>
+  <text x="100" y="360" fill="#FFB800" font-family="'Space Grotesk', sans-serif" font-weight="800" font-size="56">Renewable Future.</text>
+  <text x="100" y="430" fill="#94A3B8" font-family="'Inter', sans-serif" font-size="22" max-width="800">
+    Tier-1 Solar Panels, Inverters, DCR Kits & Clean Energy Supply across 28 States.
+  </text>
+  
+  <rect x="100" y="480" width="380" height="50" rx="25" fill="#0A1422" stroke="rgba(255,255,255,0.1)"/>
+  <text x="130" y="512" fill="#00E5A0" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="600">● Pan-India Dispatch · Chennai Hub</text>
+</svg>
